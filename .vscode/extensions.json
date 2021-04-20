@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "dsznajder.es7-react-js-snippets",
+        "fallenmax.mithril-emmet",
+        "necinc.elmmet",
+        "carbonid1.emmet-jss",
+        "thekalinga.bootstrap4-vscode",
+        "esbenp.prettier-vscode",
+        "gruntfuggly.format-modified",
+        "mgmcdermott.vscode-language-babel",
+        "abolkog.react-redux-simple-snippets",
+        "ysemeniuk.emmet-live"
+    ]
+}

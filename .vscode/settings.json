@@ -1,0 +1,9 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "html.format.endWithNewline": true,
+    "editor.formatOnSave": true,
+    "emmet.triggerExpansionOnTab": true,
+    "html-css-class-completion.enableEmmetSupport": true
+}
